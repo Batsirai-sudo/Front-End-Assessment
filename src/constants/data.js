@@ -23,15 +23,15 @@
     {
         "id":4,
         "image": "slider4.png",
-        "title": "Partnering to safeguard young children",
-        "description": "A look at the effect of COVID-19 on the Early Childhood Development (ECD) sector by our Foundation's CEO, Zanele Twala.",
+        "title": "Children Partnership - Role and Function",  
+        "description": "The core objectives of the Safeguarding Children Partnership (SCP) is to coordinate local work to safeguard and promote the welfare of children.",
         "link": "",
     },
     { 
         "id":5,                
         "image": "slider5.png",
-        "title": "Partnering to safeguard young children",
-        "description": "A look at the effect of COVID-19 on the Early Childhood Development (ECD) sector by our Foundation's CEO, Zanele Twala.",
+        "title": "National guidance for child protection", 
+        "description": "This guidance describes the responsibilities and expectations for all involved in protecting children and will support the care and protection of children.",
         "link": "",
     },
 ];
